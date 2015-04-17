@@ -2,7 +2,7 @@
 $px-only: true;
 
 // Import function
-@import "_rem-to-px.scss";
+@import "../src/_rem-to-px.scss";
 
 // Import tests
-@import "../tests/tests.scss";
+@import "_tests.scss";

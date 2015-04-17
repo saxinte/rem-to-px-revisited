@@ -10,6 +10,12 @@
     "maintainability",
     "rem"
   ],
+  "ignore": [
+    "dest",
+    "node_modules",
+    "**/.*",
+    "sass/tests"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",

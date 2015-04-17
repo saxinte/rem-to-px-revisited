@@ -13,5 +13,5 @@ source: http://davidwalsh.name/rem-px-browser-function-sass
 return: A list of converted values
 ...
 */
-.main-header {
+.selector {
   margin-bottom: 5rem; }
