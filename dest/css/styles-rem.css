@@ -1,0 +1,17 @@
+/*
+---
+name: parseInt
+description: returns a number from a given string
+source: http://hugogiraudel.com/2013/03/18/ultimate-rem-mixin/
+...
+*/
+/*
+---
+name: u ("u" is for unit)
+description: converts REM values into PX values targeting a specific stylesheet
+source: http://davidwalsh.name/rem-px-browser-function-sass
+return: A list of converted values
+...
+*/
+.main-header {
+  margin-bottom: 5rem; }
