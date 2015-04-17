@@ -12,7 +12,7 @@ The goal of this function is to generate two CSS files:
 - Easy to maintain: Just edit your code once, and two separate stylesheets will be generated.
 - Easy to read: Your final CSS is clear and without unused properties.
 - Lower file size: Your final CSS is lighter.
-- Faster to use: Just call u() after the property, e.g margin:u(5rem);
+- Faster to use: Just call u() after the property, e.g. margin:u(5rem);
 
 ## Cons
 - Needs a hack in the <head> to serve the right stylesheet.
