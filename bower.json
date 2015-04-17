@@ -14,8 +14,6 @@
     "dest",
     "node_modules",
     "sass/tests",
-    "**/.*",
-    "bower.json",
     "Gruntfile.js",
     "package.json"
   ],
