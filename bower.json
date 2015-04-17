@@ -13,8 +13,11 @@
   "ignore": [
     "dest",
     "node_modules",
+    "sass/tests",
     "**/.*",
-    "sass/tests"
+    "bower.json",
+    "Gruntfile.js",
+    "package.json"
   ],
   "license": "MIT",
   "repository": {
