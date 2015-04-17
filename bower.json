@@ -15,7 +15,8 @@
     "node_modules",
     "sass/tests",
     "Gruntfile.js",
-    "package.json"
+    "package.json",
+    ".gitignore"
   ],
   "license": "MIT",
   "repository": {
