@@ -5,14 +5,14 @@ This Sass function converts [REM](http://caniuse.com/#feat=rem) values to pixels
 > _This function helps you to maintain just one file rather than multiple files. It can be seen online on few websites like [RTL.fr](http://www.rtl.fr/) or [RTL2.fr](http://www.rtl2.fr/)._
 
 The goal of this function is to generate two CSS files:
-- A CSS file containing REM values
-- A CSS file containing PX values
+- A CSS file containing REM values.
+- A CSS file containing PX values.
 
 ## Pros
 - Easy to maintain: Just edit your code once, and two separate stylesheets will be generated.
 - Easy to read: Your final CSS is clear and without unused properties.
 - Lower file size: Your final CSS is lighter.
-- Faster to develop: Just type u() to generate the final units.
+- Faster to use: Just call u() after the property, e.g margin:u(5rem);
 
 ## Cons
 - Needs a hack in the <head> to serve the right stylesheet.
