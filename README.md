@@ -1,6 +1,6 @@
 # REM to PX Browser Function using Sass
 
-This Sass function converts [REM](http://caniuse.com/#feat=rem) values to pixels when needed. But instead of generating the CSS property twice in the same CSS file (with both PX and REM units), it provide a way to generate the right unit in the right compiled CSS file.
+This Sass function converts [REM](http://caniuse.com/#feat=rem) values to pixels when needed. But instead of generating the CSS property twice in the same CSS file (with both PX and REM units), it provides a way to generate the right unit in the right compiled CSS file.
 
 > _This function helps you to maintain just one file rather than multiple files. It can be seen online on few websites like [RTL.fr](http://www.rtl.fr/) or [RTL2.fr](http://www.rtl2.fr/)._
 
