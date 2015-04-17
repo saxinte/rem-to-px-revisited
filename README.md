@@ -2,7 +2,7 @@
 
 This Sass function converts [REM](http://caniuse.com/#feat=rem) values to pixels when needed. But instead of generating the CSS property twice (with both PX and REM units) in the same CSS file, it provide a way to generate the right unit in the right compiled CSS file.
 
-> _This function helps you to maintain just one file rather than multiple files. It was developed in-house at RTLnet, and is now also in use on [RTL.fr](http://www.rtl.fr/) and [RTL2.fr](http://www.rtl2.fr/)._
+> _This function helps you to maintain just one file rather than multiple files. It can be seen online on few websites like [RTL.fr](http://www.rtl.fr/) or [RTL2.fr](http://www.rtl2.fr/)._
 
 The goal of this function is to generate two CSS files:
 - A CSS file containing REM values
