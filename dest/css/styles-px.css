@@ -13,5 +13,82 @@ source: http://davidwalsh.name/rem-px-browser-function-sass
 return: A list of converted values
 ...
 */
-.selector {
-  margin-bottom: 80px; }
+.selector-01 {
+  padding: 80px; }
+
+.selector-02 {
+  padding: 80px 96px; }
+
+.selector-03 {
+  padding: 80px 96px 112px; }
+
+.selector-04 {
+  padding: 80px 96px 112px 128px; }
+
+/*--------------------------------------*/
+.selector-05 {
+  padding: 8px; }
+
+.selector-06 {
+  padding: 8px 28px; }
+
+.selector-07 {
+  padding: 8px 28px 18px; }
+
+.selector-08 {
+  padding: 8px 28px 18px 31px; }
+
+/*--------------------------------------*/
+.selector-9 {
+  margin: 1px; }
+
+.selector-10 {
+  margin: 1px auto; }
+
+.selector-11 {
+  margin: auto 1px; }
+
+.selector-12 {
+  margin: 17px auto; }
+
+.selector-13 {
+  margin: auto 17px; }
+
+/*--------------------------------------*/
+.selector-14 {
+  padding: 5px; }
+
+.selector-15 {
+  padding: 5px 96px; }
+
+.selector-16 {
+  padding: 5px 96px 7px; }
+
+.selector-17 {
+  padding: 5px 96px 7px 128px; }
+
+/*--------------------------------------*/
+.selector-18 {
+  border: 1px solid black; }
+
+.selector-19 {
+  border: 16px solid black; }
+
+.selector-20 {
+  border: 16px solid black; }
+
+.selector-21 {
+  border: 1px solid black; }
+
+/*--------------------------------------*/
+.selector-22 {
+  margin: 18px 5px auto 1px; }
+
+.selector-23 {
+  background-size: 100% 80px; }
+
+.selector-24 {
+  margin: 0.08px; }
+
+.selector-25 {
+  margin: 0.008px; }
