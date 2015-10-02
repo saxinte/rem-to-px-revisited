@@ -13,7 +13,7 @@
   "ignore": [
     "dest",
     "node_modules",
-    "sass/tests",
+    "sass",
     "Gruntfile.js",
     "package.json",
     ".gitignore"
