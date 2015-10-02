@@ -18,4 +18,4 @@ The goal is to generate two CSS files:
 - Needs a hack in the <head> to serve the right stylesheet.
 
 ## How to get it
-Retrieve it with [Bower](http://bower.io/): `bower install rem-to-px-revisited --save` or just include the [rem-to-px.scss](https://raw.githubusercontent.com/saxinte/rem-to-px-revisited/master/sass/_rem-to-px.scss) file to your Sass project.
+Retrieve it with [Bower](http://bower.io/): `bower install rem-to-px-revisited --save` or just include the [rem-to-px.scss](https://raw.githubusercontent.com/saxinte/rem-to-px-revisited/master/_rem-to-px.scss) file to your Sass project.
