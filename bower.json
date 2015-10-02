@@ -4,7 +4,7 @@
   "homepage": "https://github.com/saxinte/rem-to-px-revisited",
   "author": "Sébastien Axinté <sebastien.axinte@gmail.com>",
   "description": "A revisited way of converting REM to PX using Sass",
-  "main": "_rem-to-px.scss",
+  "main": "sass/_rem-to-px.scss",
   "keywords": [
     "sass",
     "maintainability",
